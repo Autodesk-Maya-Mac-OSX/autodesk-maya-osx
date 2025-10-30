@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/autodeskmac">  
+<a href="https://get-software-osx.github.io/.github/autodeskmayaosx">  
 <img src="https://img.shields.io/badge/Get_Autodesk_Maya_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get Autodesk Maya for macOS">  
 </a>  
 </div>  
